@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Andrés Torres Marroquín
-tagline: Site Tagline
+tagline: Blog
 author :
   name : Andrés Torres Marroquín
   email : andres.torres.marroquin@gmail.com
