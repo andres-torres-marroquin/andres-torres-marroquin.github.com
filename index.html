@@ -1,0 +1,49 @@
+---
+layout: page
+title: Blog
+tagline: Posts and many more...
+---
+{% include JB/setup %}
+
+{% for post in paginator.posts %}
+
+<div class="row">
+  <div class="span8">
+    <h1><a href="{{ post.url }}">{{ post.title }}</a><small></small></h1>
+    {{ post.content }}
+    <hr>
+  </div>
+
+  <div class="span4">
+    <h4>Published</h4>
+    <div class="date"><span>{{ post.date | date_to_long_string }}</span></div>
+
+  {% unless post.tags == empty %}
+    <h4>Tags</h4>
+    <ul class="tag_box">
+    {% assign tags_list = post.tags %}
+    {% include JB/tags_list %}
+    </ul>
+  {% endunless %}
+  </div>
+</div>
+
+
+{% endfor %}
+
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/" title="Previous Page">&laquo; Previous</a>
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Previous</a>
+    {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}/" title="Next Page">Next &raquo;</a>
+  {% endif %}
+</nav>
+
+
+
