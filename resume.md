@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Résumé
-description: 
+tagline: April 24, 2012
+description: resume
 header: Post Tags
 group: navigation
 ---
