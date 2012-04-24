@@ -12,6 +12,14 @@ html, body {
   text-align: center; /* center align it with the container */
 }
 
+table {
+    padding: 5px 0;
+}
+
+td {
+    padding: 5px 15px;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
@@ -68,4 +76,3 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
