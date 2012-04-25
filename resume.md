@@ -70,19 +70,19 @@ group: navigation
 |------------------------------------+----------------------------------------------|
 |
 |------------------------------------|----------------------------------------------|
-| **CTO**                            | Codenga LLC
-| January 2012 - April 2012          | |
+| **CTO**                            | [Codenga LLC](http://codenga.com)
+| June 2011 - April 2012             | Team leader, continuous improvement agent and sometimes CIO. |
 |------------------------------------|----------------------------------------------|
-| **Web Developer & QA**             | Gamemine LLC
+| **Web Developer & QA**             | [Gamemine LLC](http://gamemine.com)
 | December 2011 - February 2012      | |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | Nextown Technologies LLC
 | January 2011 - December 2011       | Was part of a development team working on a Django-based penny auction website.
 |------------------------------------|----------------------------------------------|
-| **Web Developer**                  | GOcipher
+| **Web Developer**                  | [GOcipher](http://www.gocipher.com/)
 | January 2010 - January 2011        | Was part of a development team working on a Django-based invoicing system.
 |------------------------------------|----------------------------------------------|
-| **Web Developer, QA & DBA**        | WebDCG
+| **Web Developer, QA & DBA**        | [WebDCG](http://webdcg.com)
 | January 2007 - January 2010        | Was part of a development team working on a CodeIgniter-PHP software for a printing house.
 |------------------------------------|----------------------------------------------|
 | **Other**                          | Also I used Django in many other systems/sites.
