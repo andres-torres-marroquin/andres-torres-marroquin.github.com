@@ -2,8 +2,8 @@
 layout: post
 title: "How to Django 1.4 and Heroku"
 description: ""
-category: 
-tags: []
+category: Django
+tags: [heroku, django, git, virtualenv]
 ---
 {% include JB/setup %}
 
