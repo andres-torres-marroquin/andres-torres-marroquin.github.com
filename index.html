@@ -10,10 +10,10 @@ tagline: Posts and many more...
 <div class="row">
   <div class="span8">
     <h1><a href="{{ post.url }}">{{ post.title }}</a><small></small></h1>
-    {{ post.content }}
+    {{ post.content|truncatewords:50 }}
+    <a href="{{ post.url }}">Continue reading</a>
     <hr>
   </div>
-
   <div class="span4">
     <h4>Published</h4>
     <div class="date"><span>{{ post.date | date_to_long_string }}</span></div>
