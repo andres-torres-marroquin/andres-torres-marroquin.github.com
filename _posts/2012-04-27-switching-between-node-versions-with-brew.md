@@ -78,4 +78,5 @@ Now you can switch between versions like this:
     $ brew switch node 0.4.10
 {% endhighlight %}
 
-Easy like that!
+Easy like that! This works for every package installed with brew, PostgreSQL,
+PostGIS, MySQL, etc, etc.
