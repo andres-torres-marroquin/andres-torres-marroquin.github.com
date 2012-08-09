@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: April 24, 2012
+tagline: August 9, 2012
 description: resume
 header: Post Tags
 group: navigation
@@ -22,9 +22,9 @@ group: navigation
 |------------------|----------------------------|
 |
 |------------------|----------------------------|
-| **Name:**        | {{ site.author.name }}     
+| **Name:**        | {{ site.author.name }}
 |------------------|----------------------------|
-| **Gender:**      | Male                       
+| **Gender:**      | Male
 |------------------|----------------------------|
 | **Nationality:** | Mexican
 |------------------|----------------------------|
@@ -72,6 +72,9 @@ group: navigation
 |------------------------------------+----------------------------------------------|
 |
 |------------------------------------|----------------------------------------------|
+| **Web Developer & QA**             | [Giftovus LLC](http://giftovus.com)
+| April 2012 - to date               | Was part of a development team working on a Django-based website. |
+|------------------------------------|----------------------------------------------|
 | **CTO**                            | [Codenga LLC](http://codenga.com)
 | June 2011 - April 2012             | Team leader, continuous improvement agent and sometimes CIO. |
 |------------------------------------|----------------------------------------------|
@@ -104,7 +107,7 @@ group: navigation
 
 ---------
 
-## Interests and Contributions to Open-Sourced projects 
+## Interests and Contributions to Open-Sourced projects
 
 Software engineering techniques and methods, process automation, continuous improvement, automated deploying, testing and provisioning. Programming Languages, Web 2.0, Simulators, Computer Science, 3D Graphics.
 
