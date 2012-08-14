@@ -115,7 +115,7 @@ Software engineering techniques and methods, process automation, continuous impr
  - <https://github.com/andres-torres-marroquin/agile-django>
  - <https://github.com/andres-torres-marroquin/django-dropbox>
  - <https://github.com/andres-torres-marroquin/django-sparker>
- - <https://github.com/Codenga/codenga-helpers>
+ - <https://github.com/andres-torres-marroquin/codenga-helpers>
  - <https://github.com/andres-torres-marroquin/kanban-for-github>
  - <https://code.djangoproject.com/changeset/16572>
  - <https://github.com/github/hubot-scripts/pull/253>
