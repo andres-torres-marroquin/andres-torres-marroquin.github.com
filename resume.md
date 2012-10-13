@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: August 9, 2012
+tagline: October 13, 2012
 description: resume
 header: Post Tags
 group: navigation
@@ -42,15 +42,15 @@ group: navigation
 |-------------------------------+----------------------------------------------|
 |
 |-------------------------------|----------------------------------------------|
-| **Programming Languages:**    | Python (5+ years), Java (3 years), C# (2 years), PHP (2 years), Javascript (2 years), C (1 years), Perl (1 year), Ruby (1.5 year), CoffeeScript (1 year)
+| **Programming Languages:**    | Python (5+ years), Java (3 years), C# (2 years), PHP (2 years), Javascript (4 years), C (1 years), Perl (1 year), Ruby (1.5 year), CoffeeScript (1.5 year)
 |-------------------------------|----------------------------------------------|
-| **Technologies:**             | Heroku, Google App Engine, SVN, git, REST, SOAP, Celery, pusher.com, RVM, CSS, LESS, SASS, NodeJS
+| **Technologies:**             | Heroku, Google App Engine, SVN, git, REST, SOAP, Celery, pusher.com, RVM, LESS, SASS, NodeJS, Mustache, BackboneJS, HandlebarsJS, RequireJS, Underscore
 |-------------------------------|----------------------------------------------|
 | **Web Technologies:**         | (X)HTML, CSS, jQuery, Splinter, Selenium, CakePHP, CodeIgniter, Django, Ext JS, Rails, Sinatra
 |-------------------------------|----------------------------------------------|
-| **Databases:**                | PostgreSQL, MySQL, SQLite, MongoDB
+| **Databases:**                | PostgreSQL, PostGIS, MySQL, SQLite, MongoDB
 |-------------------------------|----------------------------------------------|
-| **Operating Systems:**        | Windows (15+ years), Linux (6+ years), Mac OS X (4 years)
+| **Operating Systems:**        | Windows (15+ years), Linux (6+ years), Mac OS X (5+ years)
 |-------------------------------|----------------------------------------------|
 
 ---------
@@ -62,7 +62,7 @@ group: navigation
 |------------------------------------|----------------------------------------------|
 | **June 2007 to June 2011**         | *Ingeniería en Sistemas Computacionales (Computer Systems Engineering)*, [Instituto Tecnológico de Morelia](http://www.itmorelia.edu.mx/) (Morelia Institute of Technology). Equivalent to a BE (Bachelor of Engineering).
 |------------------------------------|----------------------------------------------|
-| **September 2011 - Present** | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/).
+| **September 2011 - to date** | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/).
 |------------------------------------|----------------------------------------------|
 
 ---------
@@ -72,8 +72,11 @@ group: navigation
 |------------------------------------+----------------------------------------------|
 |
 |------------------------------------|----------------------------------------------|
+| **Web Developer & QA**             | [CasaHop](http://casahop.com)
+| September 2012 - to date           | Was part of a development team working on a Django-based home sharing website. |
+|------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [Giftovus LLC](http://giftovus.com)
-| April 2012 - to date               | Was part of a development team working on a Django-based website. |
+| April 2012 - August 2012           | Was part of a development team working on a Django-based website. |
 |------------------------------------|----------------------------------------------|
 | **CTO**                            | [Codenga LLC](http://codenga.com)
 | June 2011 - April 2012             | Team leader, continuous improvement agent and sometimes CIO. |
