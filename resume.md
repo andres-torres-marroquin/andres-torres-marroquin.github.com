@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: October 13, 2012
+tagline: October 31, 2012
 description: resume
 header: Post Tags
 group: navigation
@@ -14,6 +14,25 @@ group: navigation
 |-------------------------------|------------------|
 | ![{{ site.author.name }}]({{ site.author.gravatar }}) | **{{ site.author.name }}**{: style="font-size: 16px"}<br/>*Django Web Developer*{: style="font-size: 13px"}
 |-------------------------------|------------------|
+
+<br/>
+
+
+## What do I look for a Job?
+
+### Team
+ - A Real Team, where persons support each other.
+ - That understands that the business side requirements are top priority.
+ - Team with a good Workflow, that would love to improve it continuously.
+ - Commitment doing the things in the the best way possible with best simple possible solution.
+ - That would like to automate everything.
+ - That likes to make contributions to the open source community.
+
+### Tech
+ - Code quality, therefore readability, maintainability, DRY, code style.
+ - Simpler the better.
+ - Git as CVS.
+ - Use bleeding edge technologies. (coffeescript, less/sass, backbone, handlebars/mustache)
 
 ---------
 
