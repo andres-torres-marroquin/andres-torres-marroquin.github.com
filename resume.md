@@ -51,6 +51,10 @@ group: navigation
 |------------------|----------------------------|
 | **Twitter:**     | <http://twitter.com/{{ site.author.twitter }}>
 |------------------|----------------------------|
+| **GitHub:**      | <http://github.com/{{ site.author.github }}>
+|------------------|----------------------------|
+| **StackOverflow:**| <http://stackoverflow.com/users/{{ site.author.stackoverflow }}>
+|------------------|----------------------------|
 | **Skype:**       | [{{ site.author.skype }}](skype:{{ site.author.skype }})
 |------------------|----------------------------|
 
