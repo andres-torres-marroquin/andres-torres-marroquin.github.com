@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: October 31, 2012
+tagline: December 5, 2012
 description: resume
 header: Post Tags
 group: navigation
@@ -91,11 +91,14 @@ group: navigation
 |------------------------------------+----------------------------------------------|
 |
 |------------------------------------|----------------------------------------------|
+| **Web Developer & QA**             | [RebelMouse](http://rebelmouse.com)
+| October 2012 - to date             | Was part of a development team working on a Django-based webapp. |
+|------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [CasaHop](http://casahop.com)
-| September 2012 - to date           | Was part of a development team working on a Django-based home sharing website. |
+| September 2012 - October 2012      | Was part of a development team working on a Django-based home sharing webapp. |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [Giftovus LLC](http://giftovus.com)
-| April 2012 - August 2012           | Was part of a development team working on a Django-based website. |
+| April 2012 - August 2012           | Was part of a development team working on a Django-based webapp. |
 |------------------------------------|----------------------------------------------|
 | **CTO**                            | [Codenga LLC](http://codenga.com)
 | June 2011 - April 2012             | Team leader, continuous improvement agent and sometimes CIO. |
