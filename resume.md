@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: December 5, 2012
+tagline: February 5, 2013
 description: resume
 header: Post Tags
 group: navigation
@@ -18,7 +18,7 @@ group: navigation
 <br/>
 
 
-## What do I look for a Job?
+## I like jobs like:
 
 ### Team
  - A Real Team, where persons support each other.
@@ -85,7 +85,7 @@ group: navigation
 |------------------------------------|----------------------------------------------|
 | **June 2007 to June 2011**         | *Ingeniería en Sistemas Computacionales (Computer Systems Engineering)*, [Instituto Tecnológico de Morelia](http://www.itmorelia.edu.mx/) (Morelia Institute of Technology). Equivalent to a BE (Bachelor of Engineering).
 |------------------------------------|----------------------------------------------|
-| **September 2011 - to date** | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/).
+| **September 2011 - to date**       | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/).
 |------------------------------------|----------------------------------------------|
 
 ---------
@@ -96,7 +96,7 @@ group: navigation
 |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [RebelMouse](http://rebelmouse.com)
-| October 2012 - to date             | Was part of a development team working on a Django-based webapp. |
+| October 2012 - December 2012       | Was part of a development team working on a Django-based webapp. |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [CasaHop](http://casahop.com)
 | September 2012 - October 2012      | Was part of a development team working on a Django-based home sharing webapp. |
@@ -140,13 +140,13 @@ group: navigation
 
 Software engineering techniques and methods, process automation, continuous improvement, automated deploying, testing and provisioning. Programming Languages, Web 2.0, Simulators, Computer Science, 3D Graphics.
 
- - <https://github.com/andres-torres-marroquin/django-system-globals>
- - <https://github.com/andres-torres-marroquin/agile-django>
- - <https://github.com/andres-torres-marroquin/django-dropbox>
- - <https://github.com/andres-torres-marroquin/django-sparker>
- - <https://github.com/andres-torres-marroquin/codenga-helpers>
- - <https://github.com/andres-torres-marroquin/kanban-for-github>
  - <https://code.djangoproject.com/changeset/16572>
  - <https://github.com/github/hubot-scripts/pull/253>
  - <https://github.com/github/janky/pull/30>
  - <https://github.com/heroku/heroku-buildpack-python/pull/35>
+ - <https://github.com/andres-torres-marroquin/django-system-globals>
+ - <https://github.com/andres-torres-marroquin/django-dropbox>
+ - <https://github.com/andres-torres-marroquin/django-sparker>
+ - <https://github.com/andres-torres-marroquin/codenga-helpers>
+ - <https://github.com/andres-torres-marroquin/kanban-for-github>
+ - <https://github.com/andres-torres-marroquin/agile-django>
