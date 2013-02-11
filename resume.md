@@ -53,7 +53,7 @@ group: navigation
 |                               | [Splinter Web Testing](http://splinter.cobrateam.info/){:target="_blank"}, Selenium, [Lettuce](http://lettuce.it/){:target="_blank"}, nose
 |                               | AWS, Heroku, dotCloud, [Vagrant](http://www.vagrantup.com/){:target="_blank"}
 |-------------------------------|----------------------------------------------|
-| **Abilities:**                | Web scraping, Code review, Simpler code, Task queues, UI/UX, Automatization, QA
+| **Abilities:**                | Code review, Simpler code, Task queues, UI/UX, Automatization, QA, Web scraping
 |-------------------------------|----------------------------------------------|
 | **Databases:**                | PostgreSQL, MongoDB, MySQL, SQLite
 |-------------------------------|----------------------------------------------|
@@ -143,7 +143,7 @@ group: navigation
 
 Software engineering techniques and methods, process automation, continuous improvement, automated deploying, testing and provisioning. Programming Languages, Web 2.0, Simulators, Computer Science, 3D Graphics.
 
- - <https://code.djangoproject.com/changeset/16572>{:target="_blank"}
+ - <https://github.com/django/django/commit/0fbadfd1c8>{:target="_blank"}
  - <https://github.com/github/hubot-scripts/pull/253>{:target="_blank"}
  - <https://github.com/github/janky/pull/30>{:target="_blank"}
  - <https://github.com/heroku/heroku-buildpack-python/pull/35>{:target="_blank"}
