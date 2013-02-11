@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: February 5, 2013
+tagline: February 11, 2013
 description: resume
 header: Post Tags
 group: navigation
@@ -12,29 +12,10 @@ group: navigation
 |-------------------------------|------------------|
 |
 |-------------------------------|------------------|
-| ![{{ site.author.name }}]({{ site.author.gravatar }}) | **{{ site.author.name }}**{: style="font-size: 16px"}<br/>*Django Web Developer*{: style="font-size: 13px"}
+| ![{{ site.author.name }}]({{ site.author.gravatar }}) | **{{ site.author.name }}**{: style="font-size: 16px"}<br/>*Full-Stack Web Developer / Django Expert*{: style="font-size: 13px"}
 |-------------------------------|------------------|
 
 <br/>
-
-
-## I like jobs like:
-
-### Team
- - A Real Team, where persons support each other.
- - That understands that the business side requirements are top priority.
- - Team with a good Workflow, that would love to improve it continuously.
- - Commitment doing the things in the the best way possible with best simple possible solution.
- - That would like to automate everything.
- - That likes to make contributions to the open source community.
-
-### Tech
- - Code quality, therefore readability, maintainability, DRY, code style.
- - Simpler the better.
- - Git as CVS.
- - Use bleeding edge technologies. (coffeescript, less/sass, backbone, handlebars/mustache)
-
----------
 
 ## Personal details
 
@@ -65,15 +46,17 @@ group: navigation
 |-------------------------------+----------------------------------------------|
 |
 |-------------------------------|----------------------------------------------|
-| **Programming Languages:**    | Python (5+ years), Java (3 years), C# (2 years), PHP (2 years), Javascript (4 years), C (1 years), Perl (1 year), Ruby (1.5 year), CoffeeScript (1.5 year)
+| **Programming Languages:**    | Python (6 years), Javascript (7 years), PHP (3 years), C# (2 years), Java (2 years), C (1 years), Perl (1 year), Ruby (1.5 year), CoffeeScript (1.5 year)
 |-------------------------------|----------------------------------------------|
-| **Technologies:**             | Heroku, Google App Engine, SVN, git, REST, SOAP, Celery, pusher.com, RVM, LESS, SASS, NodeJS, Mustache, BackboneJS, HandlebarsJS, RequireJS, Underscore
+| **Technologies:**             | Django, CodeIgniter, Rails, Sinatra
+|                               | REST, Celery, [Push Technology](http://en.wikipedia.org/wiki/Push_technology), CSS/[Sass](http://sass-lang.com/)/[Compass](http://compass-style.org/)/LESS, NodeJS, Backbone, [Mustache](http://mustache.github.com/)/[Handlebars](http://handlebarsjs.com/), [RequireJS](http://requirejs.org/), [Heroku](http://www.heroku.com/), jQuery
+|                               | [Splinter Web Testing](http://splinter.cobrateam.info/), Selenium
 |-------------------------------|----------------------------------------------|
-| **Web Technologies:**         | (X)HTML, CSS, jQuery, Splinter, Selenium, CakePHP, CodeIgniter, Django, Ext JS, Rails, Sinatra
+| **Abilities:**                | Web Scrapping, Code reviewing, Code simplification, Task queues, Multi-process Sync, UI/UX
 |-------------------------------|----------------------------------------------|
-| **Databases:**                | PostgreSQL, PostGIS, MySQL, SQLite, MongoDB
+| **Databases:**                | PostgreSQL, MongoDB, MySQL, SQLite
 |-------------------------------|----------------------------------------------|
-| **Operating Systems:**        | Windows (15+ years), Linux (6+ years), Mac OS X (5+ years)
+| **Operating Systems:**        | OSX, Linux
 |-------------------------------|----------------------------------------------|
 
 ---------
@@ -83,9 +66,10 @@ group: navigation
 |------------------------------------+----------------------------------------------|
 |
 |------------------------------------|----------------------------------------------|
-| **June 2007 to June 2011**         | *Ingeniería en Sistemas Computacionales (Computer Systems Engineering)*, [Instituto Tecnológico de Morelia](http://www.itmorelia.edu.mx/) (Morelia Institute of Technology). Equivalent to a BE (Bachelor of Engineering).
+| **June 2007 to June 2011**         | Computer Systems Engineering BA, [Instituto Tecnológico de Morelia](http://www.itmorelia.edu.mx/).
 |------------------------------------|----------------------------------------------|
 | **September 2011 - to date**       | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/).
+| <span style="font-size: 12px"> to be ended on Aug 2013</span> |
 |------------------------------------|----------------------------------------------|
 
 ---------
@@ -121,6 +105,24 @@ group: navigation
 |------------------------------------|----------------------------------------------|
 | **Other**                          | Also I used Django in many other systems/sites.
 |------------------------------------|----------------------------------------------|
+
+---------
+
+## I like jobs like:
+
+### Team
+ - A Real Team, where persons support each other.
+ - That understands that the business side requirements are top priority.
+ - Team with a good Workflow, that would love to improve it continuously.
+ - Commitment doing the things in the the best way possible with best simple possible solution.
+ - That would like to automate everything.
+ - That likes to make contributions to the open source community.
+
+### Tech
+ - Code quality, therefore readability, maintainability, DRY, code style.
+ - Simpler the better.
+ - Git as CVS.
+ - Use bleeding edge technologies. (coffeescript, less/sass, backbone, handlebars/mustache)
 
 ---------
 
