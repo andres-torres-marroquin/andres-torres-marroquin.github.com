@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
-server_port: 8000
+port: 8000
 markdown: kramdown
 paginate: 5
 

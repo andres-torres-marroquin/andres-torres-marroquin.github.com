@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: February 11, 2013
+tagline: February 1st, 2014
 description: resume
 header: Post Tags
 group: navigation
@@ -46,16 +46,16 @@ group: navigation
 |-------------------------------+----------------------------------------------|
 |
 |-------------------------------|----------------------------------------------|
-| **Programming Languages:**    | Python (6 years), Javascript (7 years), PHP (3 years), C# (2 years), Java (2 years), C (1 years), Perl (1 year), Ruby (1.5 year), CoffeeScript (1.5 year)
+| **Programming Languages:**    | Python (7 years), Javascript (7 years), PHP (3 years), Ruby (3 year), CoffeeScript (3 year), C# (2 years), Java (2 years), C (1 year), Perl (1 year)
 |-------------------------------|----------------------------------------------|
-| **Technologies:**             | Django, CodeIgniter, Rails, Sinatra
-|                               | REST, Celery, [Push Technology](http://en.wikipedia.org/wiki/Push_technology){:target="_blank"}, CSS/[Sass](http://sass-lang.com/){:target="_blank"}/[Compass](http://compass-style.org/){:target="_blank"}/LESS, NodeJS, Backbone, [Mustache](http://mustache.github.com/){:target="_blank"}/[Handlebars](http://handlebarsjs.com/){:target="_blank"}, [RequireJS](http://requirejs.org/){:target="_blank"}, [Heroku](http://www.heroku.com/){:target="_blank"}, jQuery
+| **Technologies:**             | Django, Flask, CodeIgniter, Rails, Sinatra
+|                               | REST, Celery, SQLAlchemy, [Push Technology](http://en.wikipedia.org/wiki/Push_technology){:target="_blank"}, CSS/[Sass](http://sass-lang.com/){:target="_blank"}/[Compass](http://compass-style.org/){:target="_blank"}/LESS, NodeJS, Backbone, Ember.js, [Mustache](http://mustache.github.com/){:target="_blank"}/[Handlebars](http://handlebarsjs.com/){:target="_blank"}, [RequireJS](http://requirejs.org/){:target="_blank"}, [Heroku](http://www.heroku.com/){:target="_blank"}, jQuery
 |                               | [Splinter Web Testing](http://splinter.cobrateam.info/){:target="_blank"}, Selenium, [Lettuce](http://lettuce.it/){:target="_blank"}, nose
 |                               | AWS, Heroku, dotCloud, [Vagrant](http://www.vagrantup.com/){:target="_blank"}
 |-------------------------------|----------------------------------------------|
 | **Abilities:**                | Code review, Simpler code, Task queues, UI/UX, Automatization, QA, Web scraping
 |-------------------------------|----------------------------------------------|
-| **Databases:**                | PostgreSQL, MongoDB, MySQL, SQLite
+| **Databases:**                | PostgreSQL, SQL Server, MongoDB, MySQL, SQLite
 |-------------------------------|----------------------------------------------|
 | **Operating Systems:**        | OSX, Linux
 |-------------------------------|----------------------------------------------|
@@ -69,8 +69,7 @@ group: navigation
 |------------------------------------|----------------------------------------------|
 | **June 2007 to June 2011**         | Computer Systems Engineering BA, [Instituto Tecnológico de Morelia](http://www.itmorelia.edu.mx/){:target="_blank"}.
 |------------------------------------|----------------------------------------------|
-| **September 2011 - to date**       | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/){:target="_blank"}.
-| <span style="font-size: 12px"> to be ended on Aug 2013</span> |
+| **September 2011 - August 2013**   | Information Technology MS, at [Universidad de Morelia](http://udemorelia.edu.mx/){:target="_blank"}.
 |------------------------------------|----------------------------------------------|
 
 ---------
@@ -79,6 +78,9 @@ group: navigation
 
 |------------------------------------+----------------------------------------------|
 |
+|------------------------------------|----------------------------------------------|
+| **Web Developer & QA**             | [TempDev](http://tempdev.com){:target="_blank"}
+| February 2013 - January 2014       | Was part of a development team working on multiple projects for healthcare on Flask/Django/SQL Server. |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [RebelMouse](http://rebelmouse.com){:target="_blank"}
 | October 2012 - December 2012       | Was part of a development team working on a Django-based webapp. |
