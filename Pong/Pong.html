@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Unity Web Player | 2sssssdd</title>
+		<title>LiloPong</title>
 		<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
 		<script type="text/javascript">
 		<!--
@@ -15,10 +15,10 @@
 		<script type="text/javascript">
 		<!--
 			var config = {
-				width: 960, 
+				width: 960,
 				height: 600,
 				params: { enableDebugging:"0" }
-				
+
 			};
 			var u = new UnityObject2(config);
 
@@ -28,7 +28,7 @@
 				var $brokenScreen = jQuery("#unityPlayer").find(".broken");
 				$missingScreen.hide();
 				$brokenScreen.hide();
-				
+
 				u.observeProgress(function (progress) {
 					switch(progress.pluginStatus) {
 						case "broken":
@@ -116,7 +116,16 @@
 		</style>
 	</head>
 	<body>
-		<p class="header"><span>Unity Web Player | </span>2sssssdd</p>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- LiloPong -->
+	<ins class="adsbygoogle"
+	     style="display:inline-block;width:728px;height:90px"
+	     data-ad-client="ca-pub-6360515238795788"
+	     data-ad-slot="1426778398"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+		<p class="header">LiloPong</p>
 		<div class="content">
 			<div id="unityPlayer">
 				<div class="missing">
@@ -131,6 +140,9 @@
 				</div>
 			</div>
 		</div>
+		Player 1 controls: W/S
+		<br>
+		Player 2 controls: Up/Down
 		<p class="footer">&laquo; created with <a href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</p>
 	</body>
 </html>
