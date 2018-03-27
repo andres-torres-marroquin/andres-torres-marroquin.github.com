@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-pygments: true
+#pygments: true
 
 port: 8000
 markdown: kramdown
@@ -13,17 +13,17 @@ paginate: 5
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Andrés Torres
+title: Andrés Torres
 tagline: Blog
-author :
-  name : Andrés Torres Marroquín
-  email : andres.torres.marroquin@gmail.com
-  github : andres-torres-marroquín
-  twitter : SrPoder
-  stackoverflow : 971646
-  feedburner : feedname
-  gravatar : https://secure.gravatar.com/avatar/b68793b6b74986ba2db43022a980e9d2?s=100
-  skype : andres.torres.marroquin
+author:
+  name: Andrés Torres Marroquín
+  email: andres.torres.marroquin@gmail.com
+  github: andres-torres-marroqun
+  twitter: SrPoder
+  stackoverflow: 971646
+  feedburner: feedname
+  gravatar: https://secure.gravatar.com/avatar/b68793b6b74986ba2db43022a980e9d2?s=100
+  skype: andres.torres.marroquin
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -33,12 +33,12 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://andrestorres.me
+production_url: http://andrestorres.me
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
-JB :
-  version : 0.2.13
+JB:
+  version: 0.2.13
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -62,7 +62,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  BASE_PATH: false
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -72,29 +72,29 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH: '/assets/themes/twitter'
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
   #
   archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+  categories_path: /categories.html
+  tags_path: /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : andrestorresmarroquin
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
+  comments:
+    provider: disqus
+    disqus:
+      short_name: andrestorresmarroquin
+    livefyre:
+      site_id: 123
+    intensedebate:
+      account: 123abc
+    facebook:
+      appid: 123
       num_posts: 5
       width: 580
       colorscheme: light
@@ -103,28 +103,28 @@ JB :
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-30849625-1'
-    getclicky :
-      site_id :
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+  analytics:
+    provider: google
+    google:
+        tracking_id: 'UA-30849625-1'
+    getclicky:
+      site_id:
+    mixpanel:
+        token: '_MIXPANEL_TOKEN_'
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
-  sharing :
-    provider : false
+  sharing:
+    provider: false
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
   #
-  #   pages_list :
-  #     provider : "custom"
+  #   pages_list:
+  #     provider: "custom"
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:
