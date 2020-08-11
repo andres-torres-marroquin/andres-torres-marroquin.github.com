@@ -80,7 +80,7 @@ group: navigation
 |
 |------------------------------------|----------------------------------------------|
 | **CTO**             | [Buckets.co](https://www.buckets.co){:target="_blank"}
-| January 2013 - To date       | I am part of the  development team working on the backend, website, web-app, and app for Buckets a Project Management software. |
+| January 2013 - To date       | I am leading the development team, working on the infrastructure, backend, website, web-app, and app for Buckets, a Project Management software. |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [TempDev](http://tempdev.com){:target="_blank"}
 | February 2013 - January 2014       | Was part of a development team working on multiple projects for healthcare on Flask/Django/SQL Server. |
