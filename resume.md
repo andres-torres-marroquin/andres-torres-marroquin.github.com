@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: February 1st, 2014
+tagline: August, 2020
 description: resume
 header: Post Tags
 group: navigation
@@ -46,9 +46,9 @@ group: navigation
 |-------------------------------+----------------------------------------------|
 |
 |-------------------------------|----------------------------------------------|
-| **Programming Languages:**    | Python (7 years), Javascript (7 years), PHP (3 years), Ruby (3 year), CoffeeScript (3 year), C# (2 years), Java (2 years), C (1 year), Perl (1 year)
+| **Programming Languages:**    | Python (14 years), Javascript (14 years), PHP (3 years), CoffeeScript (7 year), C# (2 years), Java (2 years)
 |-------------------------------|----------------------------------------------|
-| **Technologies:**             | Django, Flask, CodeIgniter, Rails, Sinatra
+| **Technologies:**             | Django, Flask, React, React Native
 |                               | REST, Celery, SQLAlchemy, [Push Technology](http://en.wikipedia.org/wiki/Push_technology){:target="_blank"}, CSS/[Sass](http://sass-lang.com/){:target="_blank"}/[Compass](http://compass-style.org/){:target="_blank"}/LESS, NodeJS, Backbone, Ember.js, [Mustache](http://mustache.github.com/){:target="_blank"}/[Handlebars](http://handlebarsjs.com/){:target="_blank"}, [RequireJS](http://requirejs.org/){:target="_blank"}, [Heroku](http://www.heroku.com/){:target="_blank"}, jQuery
 |                               | [Splinter Web Testing](http://splinter.cobrateam.info/){:target="_blank"}, Selenium, [Lettuce](http://lettuce.it/){:target="_blank"}, nose
 |                               | AWS, Heroku, dotCloud, [Vagrant](http://www.vagrantup.com/){:target="_blank"}
@@ -57,7 +57,7 @@ group: navigation
 |-------------------------------|----------------------------------------------|
 | **Databases:**                | PostgreSQL, SQL Server, MongoDB, MySQL, SQLite
 |-------------------------------|----------------------------------------------|
-| **Operating Systems:**        | OSX, Linux
+| **Operating Systems:**        | macOS, Linux
 |-------------------------------|----------------------------------------------|
 
 ---------
@@ -78,6 +78,9 @@ group: navigation
 
 |------------------------------------+----------------------------------------------|
 |
+|------------------------------------|----------------------------------------------|
+| **CTO**             | [Buckets.co](https://www.buckets.co){:target="_blank"}
+| January 2013 - To date       | I am part of the  development team working on the backend, website, web-app, and app for Buckets a Project Management software. |
 |------------------------------------|----------------------------------------------|
 | **Web Developer & QA**             | [TempDev](http://tempdev.com){:target="_blank"}
 | February 2013 - January 2014       | Was part of a development team working on multiple projects for healthcare on Flask/Django/SQL Server. |
@@ -122,22 +125,10 @@ group: navigation
  - That likes to make contributions to the open source community.
 
 ### Tech
- - Code quality, therefore readability, maintainability, DRY, code style.
+ - Code quality, therefore readability, maintainability, DRY (when it actually makes sense), code style.
  - Simpler the better.
  - Git as CVS.
- - Use bleeding edge technologies. (coffeescript, less/sass, backbone, handlebars/mustache)
-
----------
-
-## Other Experience
-
-|------------------------------------+----------------------------------------------|
-|
-|------------------------------------|----------------------------------------------|
-| **Heroku**             | *Heroku User/Administrator*
-|                        | Heroku is a cloud Platform as a Service (PaaS) run by the San Francisco, California-based company with the same name.
-|                        | More details about Heroku: <http://heroku.com>{:target="_blank"}
-|------------------------------------|----------------------------------------------|
+ - Use bleeding edge technologies. 
 
 ---------
 
