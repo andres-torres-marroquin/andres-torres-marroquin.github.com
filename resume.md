@@ -36,8 +36,6 @@ group: navigation
 |------------------|----------------------------|
 | **StackOverflow:**| [andres-torres-marroquin](http://stackoverflow.com/users/{{ site.author.stackoverflow }}){:target="_blank"}
 |------------------|----------------------------|
-| **Skype:**       | [{{ site.author.skype }}](skype:{{ site.author.skype }}){:target="_blank"}
-|------------------|----------------------------|
 
 ---------
 
