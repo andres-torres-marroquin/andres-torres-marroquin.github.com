@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-tagline: August, 2020
+tagline: May, 2022
 description: resume
 header: Post Tags
 group: navigation
